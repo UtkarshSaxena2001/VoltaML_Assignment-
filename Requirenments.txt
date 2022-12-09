@@ -1,0 +1,11 @@
+Operating System - Ubuntu 22.10
+Python - 3.10.7
+GPU - GTX 1050ti
+Packages:-
+      spacy - 3.4.3
+      Random
+      re
+      pandas - 1.5.2
+      protobuf - 3.20.0
+      cudnn - 11.5.119
+      
